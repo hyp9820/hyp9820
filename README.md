@@ -4,6 +4,7 @@
 - 💻 I have previously worked as an Oracle Technical Consultant at [Fusion Practices](https://fusionpractices.com/) and as an IT Associate at [VdoIT Technologies](https://vdoitech.com/).
 - ✉️ How to reach me: **hpanchal@usc.edu**
 - Download my resume at: [Link](https://www.dropbox.com/scl/fi/mqei4mx1i25lu0pvdk7t7/HitanshuPanchal.pdf?rlkey=cn9s6b5r64wmw61jer6n8qru0&st=xiw5sxd2&dl=0)
+- Know more about my work at: [**Portfolio**](https://hyp9820.github.io/hitanshu-panchal/)
 - 😄 Pronouns: He/Him/Him
 
 <h4 align="center" style="display: inline;">Connect with me</h4> 
